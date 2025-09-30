@@ -1,0 +1,22 @@
+[
+  {
+    "question": "React kis language ka library hai?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "React mai state kis hook se manage hoti hai?",
+    "options": ["useEffect", "useState", "useRef", "useContext"],
+    "answer": "useState"
+  },
+  {
+    "question": "React Router kis cheez ke liye use hota hai?",
+    "options": [
+      "Database connect karne ke liye",
+      "Styling ke liye",
+      "Routing pages ke liye",
+      "API fetch karne ke liye"
+    ],
+    "answer": "Routing pages ke liye"
+  }
+]
